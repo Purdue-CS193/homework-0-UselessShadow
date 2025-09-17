@@ -1,3 +1,13 @@
+# Andrew Cardine's First CS193 Homework 
+
+## My Favorite Things about CS193:
+
+- The TA's are GOATED
+- I LOVE the classroom and the seats.
+- My peers are so nice and friendly
+- I am getting taught things valuable to me and things I will need to know to be successful
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
